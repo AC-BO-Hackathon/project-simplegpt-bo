@@ -38,6 +38,7 @@ We welcome contributions from the community to make SimpleGPT-BO even better. He
 - **Extend Applications**: Contribute to extending the tool's capabilities to include access to more sophisticated BO tools through APIs.
 - **Improve Instructions**: Enhance the quality and clarity of the generated instructions for better user interaction.
 - **Personalize User Experience**: Work on improving the tool's personalization features to cater to user-specific needs and preferences.
+- **Update Knowledge Pool**: Help improve and update the knowledge pool to ensure the information about Bayesian Optimization (BO) is recent and valid. This involves reviewing the current content, providing updates, and ensuring that the guidance reflects the latest advancements and best practices in the field.
 
 Other areas for contributions include improving the documentation, reporting bugs, and suggesting new features.
 
