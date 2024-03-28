@@ -41,6 +41,10 @@ We welcome contributions from the community to make SimpleGPT-BO even better. He
 
 Other areas for contributions include improving the documentation, reporting bugs, and suggesting new features.
 
+## License
+
+SimpleGPT-BO is made available under the MIT License. See the LICENSE file in the project repository for full license text.
+
 ---
 
 We are excited to see how SimpleGPT-BO evolves with your support and contributions. Let's democratize Bayesian Optimization together!
